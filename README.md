@@ -1,4 +1,4 @@
-`# Sistema de Gerenciamento de Propriedades Imobiliárias
+# Sistema de Gerenciamento de Propriedades Imobiliárias
 
 Este projeto é um sistema básico para gerenciar propriedades imobiliárias usando Python e SQLite. Ele inclui a criação de tabelas no banco de dados, inserção de dados e visualização gráfica das informações.
 
