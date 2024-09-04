@@ -1,7 +1,6 @@
 
 ### 2. Inserção de Dados nas Tabelas
 
-```markdown
 # Inserção de Dados nas Tabelas
 
 Este script insere dados fictícios nas tabelas do banco de dados `gerenciamento_imobiliario.db`.
